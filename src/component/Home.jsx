@@ -36,7 +36,7 @@ const Home=()=>{
     const[cartItm,setCartItm]=useState([{
     "id": 10,
     "productName": "Pork - Ham Hocks - Smoked",
-    "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/41YorSgCIcL._SX300_SY300_QL70_FMwebp_.jpg",
+    "image": "https://cdn.dnaindia.com/sites/default/files/2023/08/24/2604642-apple-iphone-14-pro-max-1.jpg?im=FitAndFill=(1200,900)",
     "price": 166,
     "quantity":1,
     "className":"size"
@@ -204,8 +204,8 @@ const Home=()=>{
 <div className="container2">
   <div className="card2">
     
-    <img src="https://www.digitalcommerce360.com/wp-content/uploads/2017/05/Toys-R-Us-brings-its-e-commerce-operation-in-house.jpg"/>
-    <h3 className="name2">30%off</h3>
+    <img src="https://image.made-in-china.com/2f0j00WUdkLnoGlbqF/Kids-Brain-up-DIY-Model-Clay-Toys-Kit-House-Play-Candy-Hamburger-Bread-Cake-Lollipop-Doughnut-Making-Tool-Colour-Play-Dough-Toys.webp"/>
+    <h3 className="name2">50%off</h3>
   </div>
 
 </div>
